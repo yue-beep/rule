@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,ebook.longmabook.com
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,prodkeys
 DOMAIN-KEYWORD,missav
+DOMAIN-KEYWORD,ednovas
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
